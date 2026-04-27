@@ -36,7 +36,7 @@ clear code structure, and output results.
 
 | Sr. No. | Topic | Dataset | Notebook |
 |---|-------|---------|----------|
-| 01 | Data Preprocessing & File Formats | Custom | [View](Practical No. 1/Practical_No_1_Data_Preprocessing_and_File_Handling.ipynb) |
+| 01 | Data Preprocessing & File Formats | Custom | [View] ([Practical No. 1/Practical_No_1_Data_Preprocessing_and_File_Handling.ipynb](https://github.com/insightzbyhussain/Deep-Learning-Practical-MSc-Data-Science/blob/main/Practical%20No.%201/Practical_No_1_Data_Preprocessing_and_File_Handling.ipynb)) |
 | 02 | Simple Classification . MNIST & IMDB | MNIST, IMDB | [View]() |
 | 03 | CNN from Scratch | CIFAR-10 | [View]() |
 | 04 | Using Pre-trained CNNs | ImageNet | [View]() |
