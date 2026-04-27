@@ -102,7 +102,7 @@ Deep-Learning-Practicals-MSc-DS/
 
 **Mohd Hussain Khan**  
 M.Sc. Data Science . SIES College, Mumbai  
-[LinkedIn](https://www.linkedin.com/in/mohdhussain-khan) • 
+[LinkedIn](https://www.linkedin.com/in/mohdhussain-khan)
 
 ---
 
