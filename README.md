@@ -69,36 +69,21 @@ Deep-Learning-Practicals-MSc-DS/
 ├── 01_Data_Preprocessing/
 ├── 02_Classification_MNIST_IMDB/
 ├── 03_CNN_from_Scratch/
-├── 04_Pretrained_CNNs/
-├── 05_Visualizing_CNNs/
-├── 06_MultiInput_MultiOutput/
-├── 07_RNN_Language_Modeling/
-├── 08_Bidirectional_RNN/
-├── 09_Transfer_Learning/
-├── 10_HuggingFace_API/
-├── 11_LSTM_Text_Generation/
-├── 12_GAN_Image_Generation/
-└── 13_Video_to_Text_LSTM/
+├── 04_Visualizing_CNNs/
+├── 05_MultiInput_MultiOutput/
+├── 06_RNN_Language_Modeling/
+├── 07_Transfer_Learning/
+├── 08_LSTM_Text_Generation/
+├── 09_GAN_Image_Generation/
+└── 10_Video_to_Text_LSTM/
 ```
-
----
-
-## 🎓 Academic Details
-
-| Detail | Info |
-|--------|------|
-| Program | M.Sc. Data Science |
-| Semester | IV |
-| Subject | Deep Learning (SIPDSCC621) |
-| Institution | SIES College, Mumbai |
-| Academic Year | 2024 . 2026 |
 
 ---
 
 ## 👤 Author
 
 **Mohd Hussain Khan**  
-M.Sc. Data Science . SIES College, Mumbai  
+M.Sc. Data Science
 [LinkedIn](https://www.linkedin.com/in/mohdhussain-khan)
 
 ---
