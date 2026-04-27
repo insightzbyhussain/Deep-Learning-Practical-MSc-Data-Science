@@ -65,6 +65,7 @@ clear code structure, and output results.
 ---
 
 ## 📁 Folder Structure
+```
 Deep-Learning-Practicals-MSc-DS/
 │
 ├── README.md
@@ -81,6 +82,7 @@ Deep-Learning-Practicals-MSc-DS/
 ├── 11_LSTM_Text_Generation/
 ├── 12_GAN_Image_Generation/
 └── 13_Video_to_Text_LSTM/
+```
 
 ---
 
