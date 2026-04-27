@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Practicals . M.Sc. Data Science (Sem IV)
+# 🧠 Deep Learning Practicals . M.Sc. Data Science
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tensorflow)](https://tensorflow.org)
