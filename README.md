@@ -37,18 +37,15 @@ clear code structure, and output results.
 | Sr. No. | Topic | Dataset | Notebook |
 |---|-------|---------|----------|
 | 01 | Python Primer, Revisiting Data Preprocessing, Setting up Deep-Learning workstations, Working with different data types and file formats | [dataset](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data) | [View](https://github.com/insightzbyhussain/Deep-Learning-Practical-MSc-Data-Science/blob/main/Practical%20No.%201/Practical_No_1_Data_Preprocessing_and_File_Handling.ipynb) |
-| 02 | Simple Classification . MNIST & IMDB | MNIST, IMDB | [View]() |
-| 03 | CNN from Scratch | CIFAR-10 | [View]() |
-| 04 | Using Pre-trained CNNs | ImageNet | [View]() |
-| 05 | Visualizing CNN . Activations & Heatmaps | Custom | [View]() |
-| 06 | Multi-Input Multi-Output Models & Hyperparameter Tuning | Custom | [View]() |
-| 07 | Language Modeling using RNN | Custom Text | [View]() |
-| 08 | Stacking Layers in Bidirectional RNNs | Custom Text | [View]() |
-| 09 | Transfer Learning for Classification | ImageNet | [View]() |
-| 10 | Exploring Hugging Face API | HuggingFace | [View]() |
-| 11 | Text Generation using LSTM | Custom Text | [View]() |
-| 12 | Image Generation using GAN | Custom | [View]() |
-| 13 | Video to Text with LSTM | Custom | [View]() |
+| 02 | Simple Classification Tasks, Working with MNIST – IMDB Datasets | MNIST, IMDB | [View]() |
+| 03 | Training a CNN from Scratch, Using pre-trained CNNs | CIFAR-10 | [View]() |
+| 04 | Visualizing what CNNs are learning - Intermediate Activations, Convnet, Filters, Heatmaps | ImageNet | [View]() |
+| 05 | Exploring Multi-Input Multi-Output Models & Hyperparameter Tuning | Custom | [View]() |
+| 06 | Language Modeling using RNN, Practicing of Stacking Layers in Bidirectional RNNs | Custom Text | [View]() |
+| 07 | Transfer Learning models for classification problems, Exploring Hugging-face API | ImageNet | [View]() |
+| 08 | Text Generation using LSTM | Custom Text | [View]() |
+| 09 | Image Generation from Text using GAN | Custom | [View]() |
+| 10 | Demonstrate video to Text with LSTM | Custom | [View]() |
 
 > Notebook links will be updated as practicals are pushed.
 
