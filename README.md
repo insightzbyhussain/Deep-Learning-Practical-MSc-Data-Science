@@ -36,7 +36,7 @@ clear code structure, and output results.
 
 | Sr. No. | Topic | Dataset | Notebook |
 |---|-------|---------|----------|
-| 01 | Python Primer, Revisiting Data Preprocessing, Setting up Deep-Learning workstations, Working with different data types and file formats | [dataset](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data) | [View](https://github.com/insightzbyhussain/Deep-Learning-Practical-MSc-Data-Science/blob/main/Practical%20No.%201/Practical_No_1_Data_Preprocessing_and_File_Handling.ipynb) |
+| 01 | Python Primer, Revisiting Data Preprocessing, Setting up Deep-Learning workstations, Working with different data types and file formats | [Dataset](https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data) | [View](https://github.com/insightzbyhussain/Deep-Learning-Practical-MSc-Data-Science/blob/main/Practical%20No.%201/Practical_No_1_Data_Preprocessing_and_File_Handling.ipynb) |
 | 02 | Simple Classification Tasks, Working with MNIST – IMDB Datasets | MNIST, IMDB | [View]() |
 | 03 | Training a CNN from Scratch, Using pre-trained CNNs | CIFAR-10 | [View]() |
 | 04 | Visualizing what CNNs are learning - Intermediate Activations, Convnet, Filters, Heatmaps | ImageNet | [View]() |
