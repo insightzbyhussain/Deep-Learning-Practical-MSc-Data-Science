@@ -34,7 +34,7 @@ clear code structure, and output results.
 
 ## 📂 Practicals
 
-| Sr.No. | Topic | Dataset | Notebook |
+| Sr. No. | Topic | Dataset | Notebook |
 |---|-------|---------|----------|
 | 01 | Data Preprocessing & File Formats | Custom | [View]() |
 | 02 | Simple Classification . MNIST & IMDB | MNIST, IMDB | [View]() |
