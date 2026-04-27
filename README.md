@@ -14,7 +14,7 @@ using Python, TensorFlow, and Keras as part of the M.Sc. Data
 Science program at SIES College of Arts, Science & Commerce 
 (Empowered Autonomous), Mumbai.
 
-Each practical is self-contained with a Jupyter/Colab notebook, 
+Each practical is self-contained with a Colab notebook, 
 clear code structure, and output results.
 
 ---
@@ -26,7 +26,8 @@ clear code structure, and output results.
 | Python 3.x | Core language |
 | TensorFlow / Keras | Model building & training |
 | NumPy | Numerical computation |
-| Matplotlib | Visualization |
+| Pandas | Data analysis and manipulation |
+| Matplotlib and Seaborn | Data Visualization |
 | Hugging Face | Pre-trained NLP models |
 | Google Colab | Development environment |
 
